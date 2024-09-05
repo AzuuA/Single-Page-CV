@@ -8,7 +8,7 @@ The goal of this project is to teach you how to create a structured, single-page
 
 In this project, you are required to create a single-page CV (Curriculum Vitae) using only HTML. Your webpage should look like the following image:
 
-![Single-Page HTML CV](/Single-Page-CV/resume-template-zyl70.png)
+![Single-Page HTML CV](resume-template-zyl70.png)
 
 ---
 
